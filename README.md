@@ -2,7 +2,7 @@
 **VisionOS Engineer • iOS/macOS Developer • Recent CS Graduate**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yajurva-shrotriya/)
-[![X](https://img.shields.io/badge/Twitter-@YOUR_HANDLE-1DA1F2?logo=twitter&logoColor=white)](https://x.com/yajshrotriya)
+[![X](https://img.shields.io/badge/Twitter-@yajshrotriya-1DA1F2?logo=x&logoColor=black)](https://x.com/yajshrotriya)
 
 ---
 
