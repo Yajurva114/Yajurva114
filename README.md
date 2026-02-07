@@ -8,14 +8,7 @@
 
 ## 🚀 About Me
 I’m **Yaj**, currently working as a **VisionOS Engineer at Holos Inc.**  
-I love building immersive, meaningful, and high-impact experiences across the Apple ecosystem.
-
-I’m passionate about:
-- Spatial computing + visionOS  
-- iOS/macOS system design  
-- Building tools that make people *feel* something  
-- Learning AI integration + agentic mobile workflows
-
+https://yajurva.com/
 ---
 
 ## 🧰 Tech Stack & Toolkit
@@ -29,11 +22,3 @@ I’m passionate about:
 - 🤖 AI integration for mobile apps  
 - 🧠 Agentic workflows for personalized assistants  
 - 🎛 Multimodal + spatial inputs inside visionOS experiences  
-
----
-
-## 🧩 What I Like Building
-- Spatial & immersive training systems  
-- Real-time interactive tools  
-- Simple, elegant apps that *just work*  
-- Experimental agents + AI-powered mobile utilities  
