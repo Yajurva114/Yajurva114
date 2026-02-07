@@ -7,8 +7,10 @@
 ---
 
 ## 🚀 About Me
-I’m **Yaj**, currently working as a **VisionOS Engineer at Holos Inc.**  
-https://yajurva.com/
+I’m **Yaj**, currently working as a **VisionOS Engineer at Holos Inc.**
+
+[Website](https://yajurva.com/)
+
 ---
 
 ## 🧰 Tech Stack & Toolkit
